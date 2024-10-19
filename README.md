@@ -25,7 +25,7 @@
 <h1>📡Contact📡</h1>
 <p>For any inquiries or support, please contact us at sairamcakesafar</p>
 <p align = "centre">
-  <img src="https://img.freepik.com/free-photo/dark-chocolate-cake-decorated-with-golden-balls-black-background-ai-generative_123827-24058.jpg?t=st=1729340283~exp=1729343883~hmac=0fec4c2c824d6562cd97d62e860612f1398d702717b2052f4f9f4f717990002b&w=740" width=100% height="600">
+  <img src="https://img.freepik.com/free-photo/dark-chocolate-cake-decorated-with-golden-balls-black-background-ai-generative_123827-24058.jpg?t=st=1729340283~exp=1729343883~hmac=0fec4c2c824d6562cd97d62e860612f1398d702717b2052f4f9f4f717990002b&w=740" width=100% >
 </p>
 
   
